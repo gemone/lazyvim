@@ -38,6 +38,7 @@ return {
       "delve",
       "elixir-ls",
       "java-test",
+      "java-debug-adapter",
       "js-debug-adapter",
       "kotlin-debug-adapter",
       "firefox-debug-adapter",
@@ -54,7 +55,7 @@ return {
       -- Formatter
       "stylua",
       "shfmt",
-      "blackd-client",
+      "black",
       "jq",
       "gofumpt",
       "goimports",
