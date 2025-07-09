@@ -11,7 +11,7 @@ return {
       {
         "<leader>gg",
         "<cmd>Neogit<cr>",
-        desc = "An interactive and powerful Git interface for Neovim, inspired by Magit",
+        desc = "A Git interface.",
       },
     },
   },
